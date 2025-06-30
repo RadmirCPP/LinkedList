@@ -30,5 +30,5 @@ This makes it easier to add and remove elements, especially at the beginning.
 
 ### Compile with g++:
 ```bash
-g++ -std=c++17 -Wall -Wextra main.cpp -o linkedlist
+g++ -std=c++17 -Wall -Wextra main.cpp -o taskManager
 ./linkedlist
